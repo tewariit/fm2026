@@ -21,3 +21,4 @@
 - ⚠️ ยังไม่ยืนยัน SortItOutSI Data Update (เปิดอ่านไม่ได้ HTTP 403; ข้อมูลจากผลค้นหาเท่านั้น): https://sortitoutsi.net/football-manager-data-update · FMEditorX 26.3: https://sortitoutsi.net/content/76329/fm26-transfers-data-by-fmeditorx
 - แพตช์ทางการ SI (ถึงต้นปี 2026 ไม่ใช่ซีซันใหม่; ยังไม่เปิดอ่านหน้าแพตช์): https://www.fmscout.com/a-fm26-update-26.2.0.html · https://www.fmscout.com/a-fm26-update-26.3.0.html
 - หมายเหตุ: ต้องเริ่มเซฟใหม่เพื่อใช้ฐานข้อมูลที่อัพเดท
+- Eneba – Best Young Goalkeepers FM26 (อ่านแล้ว 2026-10-05; เป็นคู่มือจากร้านขายเกม ใช้ประกอบ): https://www.eneba.com/hub/games/game-guides/best-young-goalkeepers-fm26/
